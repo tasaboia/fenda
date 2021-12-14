@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+}
+
+.header{
+    display: grid;
+    padding: 20px;
+    background: var(--gradient-text-h1);
+    justify-items: center;
+}
+
+.header h1{
+    font-family: var(--font-family);
+    color: #FFF;
+}

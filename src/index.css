@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@800&display=swap');
+
+
+:root {
+  --font-family: 'Raleway', sans-serif;
+  --gradient-text-h1: linear-gradient(to right, #E6E6FA 0%, #330867 100%);
+  --gradient-text: linear-gradient(89.97deg, #AE67FA 1.84%, #F49867 102.67%);
+  --gradient-bar: linear-gradient(103.22deg, #a2ca6d -13.86%, #df2ba9 99.55%);
+  
+  --color-bg: #FFF;
+  --color-footer : #E6E6FA;
+  --color-blog: #042c54;
+  --color-text: #000;
+  --color-subtext: #6A5ACD;
+}
