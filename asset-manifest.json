@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/fenda-web/static/css/main.3ad9ff9b.chunk.css",
+    "main.js": "/fenda-web/static/js/main.42b294a3.chunk.js",
+    "main.js.map": "/fenda-web/static/js/main.42b294a3.chunk.js.map",
+    "runtime-main.js": "/fenda-web/static/js/runtime-main.e99fdfd2.js",
+    "runtime-main.js.map": "/fenda-web/static/js/runtime-main.e99fdfd2.js.map",
+    "static/js/2.afd9b875.chunk.js": "/fenda-web/static/js/2.afd9b875.chunk.js",
+    "static/js/2.afd9b875.chunk.js.map": "/fenda-web/static/js/2.afd9b875.chunk.js.map",
+    "index.html": "/fenda-web/index.html",
+    "static/css/main.3ad9ff9b.chunk.css.map": "/fenda-web/static/css/main.3ad9ff9b.chunk.css.map",
+    "static/js/2.afd9b875.chunk.js.LICENSE.txt": "/fenda-web/static/js/2.afd9b875.chunk.js.LICENSE.txt",
+    "static/media/img1.7fcbaa69.jpg": "/fenda-web/static/media/img1.7fcbaa69.jpg",
+    "static/media/img10.86daead6.jpg": "/fenda-web/static/media/img10.86daead6.jpg",
+    "static/media/img11.a306c6fd.jpg": "/fenda-web/static/media/img11.a306c6fd.jpg",
+    "static/media/img12.250414d8.jpg": "/fenda-web/static/media/img12.250414d8.jpg",
+    "static/media/img17.e177eb51.jpg": "/fenda-web/static/media/img17.e177eb51.jpg",
+    "static/media/img18.62c32219.jpg": "/fenda-web/static/media/img18.62c32219.jpg",
+    "static/media/img2.427fc463.jpg": "/fenda-web/static/media/img2.427fc463.jpg",
+    "static/media/img3.d6e3c758.jpg": "/fenda-web/static/media/img3.d6e3c758.jpg",
+    "static/media/img4.e4a8bf7b.jpg": "/fenda-web/static/media/img4.e4a8bf7b.jpg",
+    "static/media/img5.4ca872ed.jpg": "/fenda-web/static/media/img5.4ca872ed.jpg",
+    "static/media/img6.30ecb822.jpg": "/fenda-web/static/media/img6.30ecb822.jpg",
+    "static/media/img7.4181ea3e.jpg": "/fenda-web/static/media/img7.4181ea3e.jpg",
+    "static/media/img8.cc5182d9.jpg": "/fenda-web/static/media/img8.cc5182d9.jpg",
+    "static/media/img9.55e807d8.jpg": "/fenda-web/static/media/img9.55e807d8.jpg",
+    "static/media/logo.92b421da.png": "/fenda-web/static/media/logo.92b421da.png",
+    "static/media/welcome.0728f795.jpg": "/fenda-web/static/media/welcome.0728f795.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e99fdfd2.js",
+    "static/js/2.afd9b875.chunk.js",
+    "static/css/main.3ad9ff9b.chunk.css",
+    "static/js/main.42b294a3.chunk.js"
+  ]
+}
